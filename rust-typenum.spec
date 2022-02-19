@@ -5,8 +5,8 @@
 %global crate typenum
 
 Name:           rust-%{crate}
-Version:        1.11.2
-Release:        2%{?dist}
+Version:        1.15.0
+Release:        1%{?dist}
 Summary:        Rust library for type-level numbers evaluated at compile time
 
 # Upstream license specification: MIT/Apache-2.0
