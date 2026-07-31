@@ -5,7 +5,7 @@
 %global crate typenum
 
 Name:           rust-%{crate}
-Version:        1.15.0
+Version:        1.20.1
 Release:        1%{?dist}
 Summary:        Rust library for type-level numbers evaluated at compile time
 
